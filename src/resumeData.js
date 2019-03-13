@@ -1,104 +1,134 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "name": "Joseph Irvin",
+    "role": "Web Developer",
+    "linkedinId":"https://www.linkedin.com/in/joseph-irvin-b4053a176/",
+    // "skypeid": "Your skypeid",
+    "roleDescription": " A Full Stack Web Developer and Graphic Designer with a focus on front-end frameworks and insight into back-end server management.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/joseph-irvin-b4053a176/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/JosephIrvin",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"instagram",
+          "url":"https://www.instagram.com/arcanedamage/",
+          "className":"fa fa-instagram"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I'm a fresh web developer that has touched upon front-end and back-end programming, and I am familiar with most of the tools in the Adobe Creative Cloud. I just completed a web development immersive program and I'm ready to learn more on the work force.",
+    "address":"384 Ralph McGill Blvd Ne, Atlanta Ga",
+    "website":"https://josephirvin.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"General Assembly",
+        "specialization":"Front-end/Back-end Programming",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2019",
+        "Achievements":"17 week-long training program dedicated to giving students a deep dive into the world of web development, focusing on web development tools and best practices. Technologies focused on GIt/Github, HTML, CSS, JavaScript, Node, MongoDB, SQL, Python, etc."
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
+        "UniversityName":"Morehouse",
+        "specialization":"Computer Science / Psychology",
+        "MonthOfPassing":"",
         "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Allways Open",
+        "specialization":"Graphic Designer",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"Present",
+        "Achievements":"Realized the designs of the Creative Director with Adobe Creative Tools  Portfolio Includes: Logo Design, Business Cards, Brewery Labels/Can Art, Event Flyers, T-Shirt Graphics"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
+        "CompanyName":"Moda",
+        "specialization":"Tech Counselor",
+        "MonthOfLeaving":"",
         "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"Worked with youth (5-12) to learn programming skills through NXT Lego Robotics.   /   Managed a team to explore server management and administration with Minecraft."
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"JavaScript"
       },
       {
-        "skillname":"CSS"
+        "skillname":"ReactJS"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"Python"
+      },
+      {
+        "skillname":"Node"
+      },
+      {
+        "skillname":"Express"
+      },
+      {
+        "skillname":"Django"
+      },
+      {
+        "skillname":"MongoDB"
+      },
+      {
+        "skillname":"SQL"
+      },
+      {
+        "skillname":"CSS Frameworks"
+      },
+      {
+        "skillname":"Photoshop"
+      },
+      {
+        "skillname":"InDesign"
+      },
+      {
+        "skillname":"Illustrator"
+      },
+      {
+        "skillname":"Adobe_XD"
+      },
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Spotify Mixtape",
+        "description":"Simple interface to display my favorite songs on spotify",
+        "imgurl":"https://i.imgur.com/Fwon8gY.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Venti",
+        "description":"App where you can vent about you day and earn coffee related rewards",
+        "imgurl":"https://i.imgur.com/wPLSOpC.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Gaming Jeopardy",
+        "description":"One of my first projects in web development, the popular game Jeopardy with a gaming twist",  
+        "imgurl":"https://i.imgur.com/6J1Xfiz.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Viewr",
+        "description":"An attempt with react and mongodb, a site with three seperate forums for different kinds of entertainment",
+        "imgurl":"https://i.imgur.com/4uDpUWh.png"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"We had a good time learning together.",
+        "name":"C'zar Dubois"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Thanks for grabbing lunch with me every day",
+        "name":"Justin Bradley"
       }
     ]
   }

@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -207,8 +207,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 180px;
+   height: 180px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -326,12 +326,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .photoshop {
-  	width: 60%;
+  	width: 85%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .illustrator {
-  	width: 55%;
+  	width: 75%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -355,14 +355,104 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+.javascript {
+   width: 75%;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
+}
+.reactjs {
+   width: 50%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.python {
+   width: 50%;
+   -moz-animation: python 2s ease;
+   -webkit-animation: python 2s ease;
+}
+.node {
+   width: 60%;
+   -moz-animation: node 2s ease;
+   -webkit-animation: node 2s ease;
+}
+.express {
+   width: 75%;
+   -moz-animation: express 2s ease;
+   -webkit-animation: express 2s ease;
+}
+.django {
+   width: 35%;
+   -moz-animation: django 2s ease;
+   -webkit-animation: django 2s ease;
+}
+.mongodb {
+   width: 80%;
+   -moz-animation: mongodb 2s ease;
+   -webkit-animation: mongodb 2s ease;
+}
+.sql {
+   width: 60%;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
+}
+.indesign {
+   width: 80%;
+   -moz-animation: indesign 2s ease;
+   -webkit-animation: indesign 2s ease;
+}
+.adobe_xd {
+   width: 85%;
+   -moz-animation: adobe_xd 2s ease;
+   -webkit-animation: adobe_xd 2s ease;
+}
 
+@-moz-keyframes python {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+@-moz-keyframes node {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+@-moz-keyframes express {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+ }
+@-moz-keyframes django {
+   0%   { width: 0px;  }
+   100% { width: 35%;  }
+ }
+@-moz-keyframes mongodb {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
+ }
+@-moz-keyframes sql {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+@-moz-keyframes indesign {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
+ }
+@-moz-keyframes adobe_xd {
+   0%   { width: 0px;  }
+   100% { width: 85%;  }
+ }
+@-moz-keyframes reactjs {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+@-moz-keyframes javascript {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+ }
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes wordpress {
   0%   { width: 0px;  }
@@ -381,6 +471,46 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 50%;  }
 }
 
+@-webkit-keyframes python {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+@-webkit-keyframes node {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+@-webkit-keyframes express {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+ }
+@-webkit-keyframes django {
+   0%   { width: 0px;  }
+   100% { width: 35%;  }
+ }
+@-webkit-keyframes mongodb {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
+ }
+@-webkit-keyframes sql {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
+ }
+@-webkit-keyframes indesign {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
+ }
+@-webkit-keyframes adobe_xd {
+   0%   { width: 0px;  }
+   100% { width: 85%;  }
+ }
+@-webkit-keyframes reactjs {
+   0%   { width: 0px;  }
+   100% { width: 50%;  }
+ }
+@-webkit-keyframes javascript {
+   0%   { width: 0px;  }
+   100% { width: 75%;  }
+ }
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
