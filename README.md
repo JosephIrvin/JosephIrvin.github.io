@@ -1,6 +1,6 @@
 # Simple Portfolio
 
-## Using template made by Rahul Bhatia
+#### Using template made by Rahul Bhatia
 
 
 
