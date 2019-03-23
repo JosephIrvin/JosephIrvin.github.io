@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Joseph Irvin",
     "role": "Web Developer",
-    "linkedinId":"https://www.linkedin.com/in/joseph-irvin-b4053a176/",
+    "linkedinId":"404-805-7449",
     // "skypeid": "Your skypeid",
     "roleDescription": " A Full Stack Web Developer and Graphic Designer with a focus on front-end frameworks and insight into back-end server management.",
     "socialLinks":[
@@ -123,11 +123,11 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"We had a good time learning together.",
+        "description":"Thank you for having my back.",
         "name":"C'zar Dubois"
       },
       {
-        "description":"Thanks for grabbing lunch with me every day",
+        "description":"It's been a pleasure working with you",
         "name":"Justin Bradley"
       }
     ]
