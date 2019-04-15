@@ -15,16 +15,11 @@ let resumeData = {
           "name":"github",
           "url":"https://github.com/JosephIrvin",
           "className":"fa fa-github"
-        },
-        {
-          "name":"instagram",
-          "url":"https://www.instagram.com/arcanedamage/",
-          "className":"fa fa-instagram"
         }
       ],
     "aboutme":"I'm a fresh web developer that has touched upon front-end and back-end programming, and I am familiar with most of the tools in the Adobe Creative Cloud. I just completed a web development immersive program and I'm ready to learn more on the work force.",
-    "address":"384 Ralph McGill Blvd Ne, Atlanta Ga",
-    "website":"https://josephirvin.github.io",
+    "address":"Atlanta Ga",
+    "website":"",
     "education":[
       {
         "UniversityName":"General Assembly",
